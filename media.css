@@ -1,0 +1,418 @@
+@media (min-width: 320px) and (max-width: 399.98px) {
+	.section-padding {
+		padding: 40px 0;
+	}
+	.common-section-title h2 {
+		font-size: 24px;
+	}
+	.common-section-title p {
+		font-size: 13px;
+	}
+	.common-section-btn {
+		font-size: 14px;
+		padding: 10px 20px;
+	}
+	.barjobs-brand img {
+		width: 80px;
+		margin: 20px 0px 20px 0px;
+	}
+	.hero-banner-content h1 {
+		font-size: 26px;
+		margin-bottom: 10px;
+	}
+	.hero-banner-content p {
+		font-size: 12px;
+		margin-bottom: 20px;
+	}
+	.hero-banner-content a {
+		font-size: 13px;
+		padding: 8px 30px;
+	}
+	.hero-banner-content-right img {
+		width: 200px;
+		margin-left: 10px;
+	}
+	.hero-list {
+		width: 150px;
+		height: 150px;
+		padding-right: 10px;
+		position: absolute;
+		top: 25%;
+		right: 5%;
+	}
+	.hero-list ul li {
+		font-size: 11px;
+		margin: 15px 0;
+	}
+	.hero-list ul li::before {
+		width: 8px;
+		top: 4px;
+		left: -25px;
+	}
+	.hiring-solution-box {
+		margin-top: 20px;
+		min-height: 180px;
+	}
+	.hiring-solution-box h4 {
+		font-size: 16px;
+		padding: 8px 0;
+	}
+	.hiring-solution-box p {
+		font-size: 13px;
+	}
+	.getting-started-steps ol li::before {
+		width: 40px;
+		height: 40px;
+		padding-top: 6px;
+	    font-size: 18px;
+	    margin-right: 20px;
+	}
+	.listed-steps {
+		margin-left: 50px;
+	}
+	.getting-started-steps ol li h4 {
+		font-size: 16px;
+	}
+	.getting-started-steps ol li p {
+		font-size: 13px;
+	}
+	.features-icon-contents img {
+		width: 45px;
+	}
+	.features-icon-contents h5 {
+		font-size: 15px;
+		line-height: 22px;
+	}
+	.faq-contents {
+		margin-top: 20px;
+	}
+	.faq-contents h5 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.faq-contents p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.faq-contents ol li {
+		font-size: 14px;
+		line-height: 20px;
+	}
+}
+
+
+@media (min-width: 400px) and (max-width: 575.98px) {
+	.section-padding {
+		padding: 50px 0;
+	}
+	.common-section-title h2 {
+		font-size: 26px;
+	}
+	.common-section-title p {
+		font-size: 14px;
+	}
+	.common-section-btn {
+		font-size: 14px;
+		padding: 12px 35px;
+	}
+	.barjobs-brand img {
+		width: 80px;
+		margin: 20px 0px 20px 20px;
+	}
+	.hero-banner-content h1 {
+		font-size: 30px;
+	}
+	.hero-banner-content p {
+		font-size: 12px;
+		margin-bottom: 30px;
+	}
+	.hero-banner-content a {
+		font-size: 13px;
+		padding: 8px 30px;
+	}
+	.hero-banner-content-right img {
+		width: 220px;
+		margin-left: 40px;
+	}
+	.hero-list {
+		width: 150px;
+		height: 150px;
+		padding-right: 10px;
+		position: absolute;
+		top: 30%;
+		right: 15%;
+	}
+	.hero-list ul li {
+		font-size: 11px;
+		margin: 15px 0;
+	}
+	.hero-list ul li::before {
+		width: 8px;
+		top: 4px;
+		left: -25px;
+	}
+	.hiring-solution-box {
+		min-height: 200px;
+		margin-top: 20px;
+	}
+	.hiring-solution-box h4 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.hiring-solution-box p {
+		font-size: 14px;
+	}
+	.getting-started-steps ol li h4 {
+		font-size: 18px;
+	}
+	.features-icon-contents img {
+		width: 50px;
+	}
+	.features-icon-contents h5 {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.faq-contents {
+		margin-top: 20px;
+	}
+	.faq-contents h5 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.faq-contents p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.faq-contents ol li {
+		font-size: 14px;
+		line-height: 22px;
+	}
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.common-section-title h2 {
+		font-size: 28px;
+	}
+	.common-section-title p {
+		font-size: 14px;
+	}
+	.common-section-btn {
+		font-size: 14px;
+		padding: 12px 40px;
+	}
+	.barjobs-brand img {
+		width: 80px;
+		margin: 20px 0px 10px 20px;
+	}
+	.hero-banner-content h1 {
+		font-size: 32px;
+		margin-bottom: 10px;
+	}
+	.hero-banner-content p {
+		font-size: 13px;
+		margin-bottom: 20px;
+	}
+	.hero-banner-content a {
+		font-size: 13px;
+		padding: 8px 30px;
+	}
+	.hero-banner-content-right img {
+		width: 200px;
+		margin-left: 60px;
+	}
+	.hero-list {
+		width: 150px;
+		height: 150px;
+		padding-right: 10px;
+		position: absolute;
+		top: 35%;
+		right: 25%;
+	}
+	.hero-list ul li {
+		font-size: 11px;
+		margin: 15px 0;
+	}
+	.hero-list ul li::before {
+		width: 8px;
+		top: 4px;
+		left: -25px;
+	}
+	.hiring-solution-box {
+		min-height: 200px;
+		margin-top: 40px;
+	}
+	.hiring-solution-box h4 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.hiring-solution-box p {
+		font-size: 14px;
+	}
+	.features-icon-contents img {
+		width: 50px;
+	}
+	.features-icon-contents h5 {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.faq-contents {
+		margin-top: 60px;
+	}
+	.faq-contents h5 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.faq-contents p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.faq-contents ol li {
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.common-section-title h2 {
+		font-size: 30px;
+	}
+	.common-section-title p {
+		font-size: 14px;
+	}
+	.common-section-btn {
+		font-size: 14px;
+		padding: 14px 50px;
+	}
+	.barjobs-brand img {
+		width: 80px;
+		margin: 30px 0px 50px 30px;
+	}
+	.hero-banner-content h1 {
+		font-size: 36px;
+	}
+	.hero-banner-content p {
+		font-size: 14px;
+		margin-bottom: 40px;
+	}
+	.hero-banner-content a {
+		font-size: 14px;
+		padding: 8px 30px;
+	}
+	.hero-list {
+		width: 150px;
+		height: 150px;
+		padding-right: 10px;
+		position: absolute;
+		top: 30%;
+		right: 10%;
+	}
+	.hero-list ul li {
+		font-size: 11px;
+		margin: 15px 0;
+	}
+	.hero-list ul li::before {
+		width: 8px;
+		top: 4px;
+		left: -25px;
+	}
+	.hiring-solution-box {
+		min-height: 200px;
+		margin-top: 40px;
+	}
+	.hiring-solution-box h4 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.hiring-solution-box p {
+		font-size: 14px;
+	}
+	.getting-started-steps ol li h4 {
+		font-size: 18px;	
+	}
+	.getting-started-steps ol li p {
+		font-size: 14px;
+	}
+	.features-icon-contents img {
+		width: 50px;
+	}
+	.features-icon-contents h5 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.faq-contents h5 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.faq-contents p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.faq-contents ol li {
+		font-size: 14px;
+		line-height: 22px;
+	}
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.common-section-title h2 {
+		font-size: 34px;
+	}
+	.common-section-btn {
+		font-size: 16px;
+		padding: 18px 70px;
+	}
+	.barjobs-brand img {
+		width: 110px;
+		margin: 30px 0px 50px 20px;
+	}
+	.hero-banner-content h1 {
+		font-size: 42px;
+	}
+	.hero-list {
+		position: absolute;
+		top: 30%;
+		right: 10%;
+	}
+	.hiring-solution-box {
+		padding: 24px 14px;
+		height: 250px;
+	}
+	.hiring-solution-box h4 {
+		font-size: 18px;
+		padding: 6px 0;
+	}
+	.hiring-solution-box p {
+		font-size: 13px;
+	}
+	.getting-started-steps ol li h4 {
+		font-size: 18px;	
+	}
+	.getting-started-steps ol li p {
+		font-size: 14px;
+	}
+	.features-icon-contents h5 {
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.hero-list {
+		position: absolute;
+		top: 35%;
+		right: 20%;
+	}
+}
+
+
+@media (min-width: 1400px) {
+
+}
